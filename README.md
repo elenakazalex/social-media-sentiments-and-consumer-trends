@@ -2,7 +2,7 @@
 
 The project investigates whether **expressive social discussion, particularly social media mentions peaks, is associated with increased brand demand**, and uses those findings to **inform more targeted crowd marketing strategies**.
 
-This project forms part of a larger mixed methods research program examining how online brand discussions relate to consumer demand (funded by a think tank the ICDS). The analysis combines monthly social media sentiment data and Google search volume across 39 brands over two years, covering more than 270 million social media mentions.
+This project forms part of a larger mixed methods research program examining how online brand discussions relate to consumer demand (funded by a think tank the ICDS). The analysis is built upon a longitudinal, lagged research design and combines monthly social media sentiment data and Google search volume across 39 brands over two years, covering more than 270 million social media mentions. 
 
 **Main business objective of the project**: determine whether the volume and emotional character of online brand discussion contain actionable signals of consumer interest and whether these signals can inform more targeted digital marketing strategies.   
 
