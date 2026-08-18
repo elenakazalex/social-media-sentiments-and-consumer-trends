@@ -26,6 +26,12 @@ The analysis addressed four business-specific questions:
 ### Overview of findings: 
 Lalala 
 
+**Sentiments drive differention in online visibility of a brand:** Out of 273 million mentions processed for a 2-year period, only roughly 96% are sentiment-driven, meaning emotions are expressed rarely by users on social media overall, making non-neutral textual discussions a critical factor for brands to stand out in saturated markets. 
+
+
+
+
+
 * High volume of brand discussion online is important but useless without user-driven sentiments:
 The emotional character of discussion provides additional information about its potential relationship with consumer demand
 
