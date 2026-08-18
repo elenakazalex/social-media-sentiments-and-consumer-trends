@@ -6,7 +6,7 @@ This project forms part of a larger mixed methods research program examining how
 
 **Main business objective of the project**: determine whether the volume and emotional charactertiristics of online brand discussion contain actionable signals of consumer interest and whether these signals can inform more targeted digital marketing strategies.   
 
-**Tools used**: social media monitoring platform (SCAN) for raw data sourcing; Excel for data cleaning; R for data validation, statistical analysis and data visualization 
+**Tools used**: Excel for data cleaning; R for data validation, statistical analysis and data visualization; social media monitoring platform (SCAN) and Google search query trafficking platform (KeyWorldTool) for raw data sourcing
 
 ## Project background and business problem
 
