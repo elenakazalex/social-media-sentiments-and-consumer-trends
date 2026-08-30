@@ -116,7 +116,7 @@ Overall, 6 segments of expression intensity were identified ranging from Non-exp
 | Non-expressive      | 0% | 11 |
 | Minimally expressive      | 1%-3%      |   23 |
 | Weakly expressive | 4%-9%     |    25 |
-| Mildly expressive      | 10%-19%      |   14 |
+| Moderately expressive      | 10%-19%      |   14 |
 | Highly expressive | 20%-39%      |    4 |
 | Extremely expressive | 40% and more      |    7 |
 
