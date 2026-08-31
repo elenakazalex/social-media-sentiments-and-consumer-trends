@@ -11,7 +11,16 @@ The project investigates whether expressive social discussion of a brand, partic
 ## Table of contents
 
 - [Project background and business problem](#project-background-and-business-problem)
-- 
+- [Executive summary](#executive-summary)
+- [Analytical workflow](#analytical-workflow)
+    - [1. Data and relationships](#1-data-and-relationships)
+    - [2. Initial exploratory analysis](#2-initial-exploratory-analysis)
+    - [3. Standardization, identification of peaks and event table construction](#3-standardization-identification-of-peaks-and-event-table-construction)
+    - [4. Expression intensity segments](#4-expression-intensity-segments)
+- [Insights deep-dive](#insights-deep-dive)
+    - [General insights](#general-insights)
+    - [Segment-wise analysis](#segment-wise-analysis)
+- [Recommendations](#recommendations) 
 
 ## Project background and business problem
 
