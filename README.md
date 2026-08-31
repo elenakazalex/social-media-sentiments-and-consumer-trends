@@ -8,6 +8,11 @@ The project investigates whether expressive social discussion of a brand, partic
 
 **Tools used**: Excel for data cleaning; R for data validation, statistical analysis and data visualization; social media monitoring platform (SCAN) and Google search query trafficking platform (KeyWordTool) for raw data sourcing 
 
+## Table of contents
+
+- [Project background and business problem](#project-background-and-business-problem)
+- 
+
 ## Project background and business problem
 
 This project forms part of a larger mixed methods research program examining how online brand discussions relate to consumer demand. The analysis is built upon an event-study research design and combines monthly social media sentiment data and Google search volume across 38 brands over 2 years, covering more than 270 million social media mentions.  
